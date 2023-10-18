@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="name_surname">Ignathius Rahardianto Patiung</string>
+    <string name="business">Junior Android Developer</string>
+    <string name="phone_number">082152234771</string>
+    <string name="email_text">ignathiusrahardianto@gmail.com</string>
+    <string name="share_text">ignathiusrp@android.com</string>
+</resources>
